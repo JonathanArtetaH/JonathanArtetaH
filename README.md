@@ -3,13 +3,13 @@
 ### Mis pasatiempos
   - Fiel seguidor de videojuegos 🎮
   - Ir al gymnasio 🏋️‍♂️
-  - Descubrir nueva musica  🎧
+  - Descubrir nueva música  🎧
   - Aprender cosas nuevas ♟
     
  ### Mis habilidades en programacion
   - Programación web ( Angular, Js, Html, Css, Boostrap )
-  - Programacion movil ( Flutter basico )
-  - Backend (PHP, Js, Graph)
+  - Programación móvil  ( Flutter básico )
+  - BackEnd (PHP, Js, Graph)
   - Bases de Datos ( MySQL, PostgreSQL )
   - Gestor de versiones ( GitHub )
 
