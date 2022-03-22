@@ -9,6 +9,7 @@
  ### Mis habilidades en programacion
   - Programación web ( Angular, Js, Html, Css, Boostrap )
   - Programacion movil ( Flutter basico )
+  - Backend (PHP, Js, Graph)
   - Bases de Datos ( MySQL, PostgreSQL )
   - Gestor de versiones ( GitHub )
 
