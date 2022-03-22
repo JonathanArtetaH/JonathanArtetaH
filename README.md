@@ -2,7 +2,7 @@
 
 ### Mis pasatiempos
   - Fiel seguidor de videojuegos 🎮
-  - Ir al gymnasio 🏋️‍♂️
+  - Realizar actividades deportivas 🏋️‍♂️
   - Descubrir nueva música  🎧
   - Aprender cosas nuevas ♟
     
