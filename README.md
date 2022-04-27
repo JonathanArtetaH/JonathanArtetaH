@@ -7,7 +7,7 @@
   - Aprender cosas nuevas ♟
     
  ### Mis habilidades en programacion
-  - Programación web ( Angular, Js, Html, Css, Boostrap )
+  - Programación web ( Angular, Js, Html, Css, bootstrap )
   - Programación móvil  ( Flutter básico )
   - BackEnd (PHP, Js, Graph)
   - Bases de Datos ( MySQL, PostgreSQL )
