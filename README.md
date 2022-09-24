@@ -1,4 +1,4 @@
-# console.log('Hello word, My name is Jonathan ✌'); 
+#Hello word, My name is Jonathan ✌
 
 ### Mis pasatiempos
   - Fiel seguidor de videojuegos 🎮
