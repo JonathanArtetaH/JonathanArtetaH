@@ -5,6 +5,8 @@
   - Realizar actividades deportivas 🏋️‍♂️
   - Descubrir nueva música  🎧
   - Aprender cosas nuevas ♟
+
+  - 👨‍💻 My page: https://perfilangular.web.app/inicio
  
  - 🌱 Languages and Tools: 
 
@@ -23,7 +25,7 @@
   
 <br />
 <p align="center">
-  <a href="https://perfilangular.web.app/inicio"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://perfilangular.web.app/inicio"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
 <a href="https://www.linkedin.com/in/jonathanartetahuerta/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
