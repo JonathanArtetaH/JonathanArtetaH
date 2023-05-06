@@ -5,15 +5,16 @@
   - Realizar actividades deportivas 🏋️‍♂️
   - Descubrir nueva música  🎧
   - Aprender cosas nuevas ♟
-    
- ### Mis habilidades en programacion
-  - Programación web ( Angular, Js, Html, Css, Bootstrap )
-  - Programación móvil  ( Flutter básico )
-  - BackEnd (PHP, Js, Graph)
-  - Bases de Datos ( MySQL, PostgreSQL )
-  - Gestor de versiones ( GitHub )
+     
+```javascript
+const thai = { 
+  code: [Javascript, Typescript, HTML, CSS, Ts, Python, C#, GraphQL],
+  tools: [Angular, Node, Docker],
+  databases:[MySQL, PostgreSQL ]  
+}
+```
 
 
- 🏅 [LinkedIn](https://www.linkedin.com/in/jonathanartetahuerta/)   👀 [Sitio web](https://perfilangular.web.app/inicio)
+ 🏅 [LinkedIn](https://www.linkedin.com/in/jonathanartetahuerta/)   👀 [Sitio web](https://perfilangular.web.app/inicio)]
 
 [![Linkedin: JonathanAH](https://www.linkedin.com/in/jonathanartetahuerta/)]
