@@ -23,6 +23,7 @@ const skills = {
 <br><br><br>
  
   <p align="center">
+    <a style="margin:10px" href="https://perfilangular.web.app/inicio" alt="JonathanAH"><img src="https://perfilangular.web.app/assets/image/logos/logosinfonfo.png" height="30" width="30"></a>     
     <a style="margin:10px" href="https://twitter.com/JonaSmith7w7" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>     
     <a style="margin:10px" href="https://www.linkedin.com/in/jonathanartetahuerta/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a> 
   <a style="margin:10px" href="https://www.instagram.com/jonanthanah/" alt="Instagram"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a> 
