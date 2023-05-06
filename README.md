@@ -32,4 +32,4 @@ const skills = {
 
 <br> 
 
- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/JonathanArtetaH)]
+ [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/JonathanArtetaH)
