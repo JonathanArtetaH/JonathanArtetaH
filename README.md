@@ -20,8 +20,7 @@ const skills = {
 }
 ```
   
-<br><br><br>
- 
+<br> 
   <p align="center">
     <a style="margin:10px" href="https://perfilangular.web.app/inicio" alt="JonathanAH"><img src="https://perfilangular.web.app/assets/image/logos/logoicono.png" height="30" width="30"></a>     
     <a style="margin:10px" href="https://twitter.com/JonaSmith7w7" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>     
@@ -30,6 +29,5 @@ const skills = {
   <a style="margin:10px" href="https://www.codechef.com/users/jho345943" alt="Codechef"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" height="30" width="30"></a> 
   </p>
 
-<br><br><br>
-
+<br> 
  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/JonathanArtetaH) 
