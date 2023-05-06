@@ -1,4 +1,4 @@
-# Hello word, My name is Jonathan ✌
+# Hello word ✌
 
 ### Mis pasatiempos
   - Fiel seguidor de videojuegos 🎮
@@ -16,3 +16,4 @@
 
  🏅 [LinkedIn](https://www.linkedin.com/in/jonathanartetahuerta/)   👀 [Sitio web](https://perfilangular.web.app/inicio)
 
+[![LinkedIn: JonathanAH](https://www.linkedin.com/in/jonathanartetahuerta/)
