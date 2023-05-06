@@ -16,4 +16,4 @@
 
  🏅 [LinkedIn](https://www.linkedin.com/in/jonathanartetahuerta/)   👀 [Sitio web](https://perfilangular.web.app/inicio)
 
-[![Linkedin: JonathanAH](https://www.linkedin.com/in/jonathanartetahuerta/)
+[![Linkedin: JonathanAH](https://www.linkedin.com/in/jonathanartetahuerta/)]
