@@ -27,7 +27,7 @@ const skills = {
     <a style="margin:10px" href="https://twitter.com/JonaSmith7w7" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>     
     <a style="margin:10px" href="https://www.linkedin.com/in/jonathanartetahuerta/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a> 
   <a style="margin:10px" href="https://www.instagram.com/jonanthanah/" alt="Instagram"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a> 
-  <a style="margin:10px" href="https://www.codechef.com/users/jho345943" alt="Codechef"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" height="30" width="30"></a> 
+<!--   <a style="margin:10px" href="https://www.codechef.com/users/jho345943" alt="Codechef"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" height="30" width="30"></a>  -->
   </p>
 
 <br> 
