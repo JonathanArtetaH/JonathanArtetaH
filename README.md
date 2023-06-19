@@ -7,9 +7,9 @@
     - Learning new things
 
   - 👨‍💻 My page: https://perfilangular.web.app/inicio
- 
+  - [My CV](https://cv-jonathan.notion.site/Jonathan-AH-319cddce0a56497fab570e6f11bb8a4d?pvs=4) 
   - 🌱 Languages and Tools: 
-
+    
  ```javascript
 const skills = { 
   code: [Javascript, Typescript, HTML, CSS, Ts, Angular, C#, GraphQL, PHP],
@@ -32,4 +32,4 @@ const skills = {
 
 <br> 
 
- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/JonathanArtetaH)
+ [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/JonathanArtetaH) 
